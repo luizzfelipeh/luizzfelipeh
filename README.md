@@ -22,7 +22,6 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_aed
-.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_aed.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ Obrigado por visitar meu perfil!
