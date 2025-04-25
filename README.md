@@ -24,4 +24,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_parceria.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizzfelipeh6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ✨ Obrigado por visitar meu perfil!
