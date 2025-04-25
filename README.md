@@ -22,9 +22,7 @@
 
 ### Projetos
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_parceria.github.io&theme=dark)](https://github.com/luizzfelipeh/projeto_ebac_parceria.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_parceria&theme=dark)](https://github.com/luizzfelipeh/projeto_ebac_parceria)
 
 ### Linguagens utilizadas
 
