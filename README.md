@@ -24,6 +24,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_parceria&theme=dark)](https://github.com/luizzfelipeh/projeto_ebac_parceria)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizzfelipeh&repo=projeto_ebac_aed&theme=dark)](https://github.com/luizzfelipeh/projeto_ebac_aed)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizzfelipeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
