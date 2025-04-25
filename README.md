@@ -12,8 +12,6 @@
 
 📚 Me interesso por temas como análise de dados, machine learning e visualização de dados.
 
-📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gomes-de-carvalho-dataanalytics/) e acompanhar meus projetos aqui no GitHub!
-
 ---
 
 ### Detalhes
