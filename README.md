@@ -1,11 +1,11 @@
-### Olá! Eu sou o Luiz Felipe 👋
+### Olá! Sou o Luiz Felipe 👋
 
 🎯 Estou em transição de carreira para a área de **Dados**, com foco em transformar informações em decisões estratégicas.
 
 📊 Tenho conhecimentos em:
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)
 - **SQL** (consultas, joins, agregações)
-- **Excel** (tabelas dinâmicas, dashboards)
+- **Excel** (tabelas dinâmicas, dashboards, Power Query)
 - **Power BI** (modelagem, visualizações e DAX)
 
 🌱 Atualmente, sigo estudando e aprimorando minhas habilidades com projetos práticos.
